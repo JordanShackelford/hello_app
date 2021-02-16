@@ -5,6 +5,8 @@
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
+    "global": "^4.4.0",
+    "heroku-cli": "^7.0.9",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
