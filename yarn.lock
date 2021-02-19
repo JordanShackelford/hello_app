@@ -3802,7 +3802,7 @@ webpack-plugin-serve@^0.12.1:
     webpack-plugin-ramdisk "^0.1.2"
     ws "^7.1.0"
 
-webpack-serve@^3.11.2:
+webpack-serve@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/webpack-serve/-/webpack-serve-3.2.0.tgz#b4cf4738712f469fef5d1aa951ceb565390a1405"
   integrity sha512-voK36uw1PpW4jYHjSthUNVeghlfNdnO56iyKdMw7P/MKPmD6WbzwslwnjgDMz33IDRlfAiT+EVVNSa+14TAkJQ==
